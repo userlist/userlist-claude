@@ -1,0 +1,17 @@
+{
+  "name": "userlist-claude",
+  "owner": {
+    "name": "Userlist",
+    "email": "support@userlist.com"
+  },
+  "plugins": [
+    {
+      "name": "atomic-emails",
+      "description": "A structured, five-step process for creating SaaS email campaigns without staring at a blank page.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/userlist/atomic-emails.git"
+      }
+    }
+  ]
+}
